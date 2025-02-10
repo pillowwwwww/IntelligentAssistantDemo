@@ -6,7 +6,9 @@
 该项目是一个智能助手 Demo，旨在展示如何利用 AI 技术处理用户请求，提供语音识别、任务查询等功能。Demo 使用阿里云 OSS 存储文件，通过配置的 API 进行文件上传和访问。
 
 ### 1.2 项目技术栈
-- **API 接口**：阿里云 OSS，通义听悟，听悟基于 OpenAPI 封装后的 SDK。
+- **API 接口**：阿里云 OSS[https://www.aliyun.com/?spm=a2c4g.11186623.J_4VYgf18xNlTAyFFbOuOQe.d_logo.1abe2c52FeY9Cs]，
+- 通义听悟[，https://help.aliyun.com/zh/tingwu/]
+- 听悟基于 OpenAPI 封装后的 SDK[https://api.aliyun.com/api-tools/sdk/tingwu?version=2023-09-30&language=python-tea&tab=primer-doc]。
 
 ## 2. 配置与安装
 
